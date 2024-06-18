@@ -15,16 +15,16 @@ The CEO, in particular, has given a ballpark of the target lead conversion rate 
 
 Steps Followed
 
-Reading the data and Data Cleaning 
-EDA
-Data Preparation through Dummy creation
-Splitting data into train and test set
-Building Model
-Making Predictions
-Model Evaluation
-ROC Curve
-Prediction on test set
-Precision- Recall
+1) Reading the data and Data Cleaning
+2) EDA
+3) Data Preparation through Dummy creation
+4) Splitting data into train and test set
+5) Building Model
+6) Making Predictions
+7) Model Evaluation
+8) ROC Curve
+9) Prediction on test set
+10) Precision- Recall
 
 
 Details of files given
